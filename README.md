@@ -78,7 +78,7 @@ import './index.css';
 - 必须使用 SceneView  [map可以传给view，有两类view，mapview是用来展示2D，sceneView可以用来展示3D](https://developers.arcgis.com/javascript/latest/maps-and-views/)
 
 - 将地图缩放至低海拔区域
-[下雨的祖冲之路](./public/imgs//rain.png)
+![下雨的祖冲之路](./public/imgs/rain.png)
 
 ```
 
